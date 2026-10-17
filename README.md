@@ -127,6 +127,28 @@ Si por algún error de módulos necesitas reinstalar (opcional):
 npm install --no-bin-links
 ```
 
+### Iniciar la copia de VictorBot en Termux
+
+Entrá a la carpeta del proyecto:
+
+```bash
+cd ~/VictorBot_TEM_ZAPIA_BOT_MD_pain
+```
+
+Antes de iniciarlo, comprobá si ya hay un proceso de Node activo:
+
+```bash
+pgrep -x node >/dev/null && echo "Node activo" || echo "Node detenido"
+```
+
+Si aparece **“Node detenido”**, iniciá el bot:
+
+```bash
+npm start
+```
+
+Si aparece **“Node activo”**, no abras otra instancia sin comprobar cuál proceso está funcionando. La comprobación puede detectar cualquier proceso de Node, no solo este bot.
+
 ---
 
 ## Vincular cuenta
