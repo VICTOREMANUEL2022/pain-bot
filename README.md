@@ -1,6 +1,6 @@
 # 🤖 VictorBot_TEM_ZAPIA_BOT_MD
 
-**Fork personalizado por Victor y Jenny Pérez**  
+**Fork personalizado: VictorBot_TEM_ZAPIA_BOT_MD**  
 *Basado en PAIN Bot, con créditos al proyecto original.*
 
 <p align="center">
@@ -350,7 +350,7 @@ Uso personal o educativo. Respeta las [políticas de WhatsApp](https://www.whats
 | | |
 |---|---|
 | **Proyecto** | VictorBot_TEM_ZAPIA_BOT_MD |
-| **Personalización** | Victor y Jenny Pérez |
+| **Personalización** | VictorBot_TEM_ZAPIA_BOT_MD |
 | **Proyecto base** | PAIN Bot, por Sunkovv |
 | **Núcleo** | [Baileys](https://github.com/WhiskeySockets/Baileys) (WhiskeySockets) |
 | **Repositorio base** | [nexusday/pain-bot](https://github.com/nexusday/pain-bot) |
@@ -358,4 +358,4 @@ Uso personal o educativo. Respeta las [políticas de WhatsApp](https://www.whats
 
 ---
 
-*VictorBot_TEM_ZAPIA_BOT_MD — fork personalizado por Victor y Jenny Pérez.*
+*VictorBot_TEM_ZAPIA_BOT_MD — bot personalizado.*
